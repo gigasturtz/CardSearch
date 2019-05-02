@@ -1,2 +1,0 @@
-# CardSearch
-Created with CodeSandbox
